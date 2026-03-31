@@ -1,7 +1,6 @@
 # Hi there, I'm Aashirvad 👋  
-**Systems Engineer | AI Infrastructure | Columnar Data | B.Tech IT @ MIT Manipal** — building high-performance systems in Python, C++, GPU acceleration (NVIDIA A100), and zero-copy data pipelines.  
-
-**Open Source @ Scikit-HEP (Awkward Array):** CUDA pipelines, Arrow↔PODIO interoperability, and large-scale scientific data systems.
+**Systems Engineer | AI Infrastructure | Columnar Data | B.Tech IT @ MIT Manipal** 
+**Open Source @ Scikit-HEP** 
 
 ### 🛠️ Featured Projects
 
