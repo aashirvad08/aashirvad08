@@ -1,28 +1,19 @@
-# Hi there, I'm Aashirvad 👋  
-**Systems Engineer | AI Infrastructure | Columnar Data | B.Tech IT @ MIT Manipal** 
+# Hi!  
+Curious just
+
+
 **Open Source @ Scikit-HEP** 
 
-### 🛠️ Featured Projects
-
-| Project | Technology |
-| :--- | :--- |
-| **[Awkward Array](https://github.com/scikit-hep/awkward)** | `C++` `Python` `Apache Arrow` `cuDF` |
-| **Brain-to-Text GPU Pipeline** | `Python` `PyTorch` `CUDA` |
-| **Research: Knowledge Graph → Text (IEEE MoSICom '25) & Extended OJCS Submission** | `LLMs` `NLP` `Python` |
-| **Arrow ↔ PODIO Interface** | `C++` `Modern CMake` `Arrow` |
 
 ---
 
-### 📊 Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-kappa-orpin.vercel.app/api?username=aashirvad08&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-kappa-orpin.vercel.app/api/top-langs?username=aashirvad08&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
+### 📊  Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aashirvad08&theme=radical&hide_border=true" height="180"/>
+  
 </p>
+
 ---
 
 ### 🌐 Connect with Me
