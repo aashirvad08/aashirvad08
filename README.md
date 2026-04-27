@@ -5,14 +5,6 @@ Curious just
 **Open Source @ Scikit-HEP** 
 
 
----
-
-### 📊  Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aashirvad08&theme=radical&hide_border=true" height="180"/>
-  
-</p>
 
 ---
 
